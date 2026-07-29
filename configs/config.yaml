@@ -1,0 +1,7 @@
+data:
+  raw_path: "data/raw/dataset.csv"
+  model_path: "models/model.pkl"
+  num_samples: 1000
+model:
+  random_state: 42
+  test_size: 0.2
